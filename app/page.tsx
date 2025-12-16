@@ -34,6 +34,8 @@ export default function Page() {
             className="text-2xl font-bold text-center mb-4"
           >
             How can I help You?
+            I am here to help you.
+            
           </Label>
 
           {/* Wrapper for textarea + button */}
