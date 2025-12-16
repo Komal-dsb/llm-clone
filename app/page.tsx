@@ -32,10 +32,10 @@ export default function Page() {
           <Label
             htmlFor="message"
             className="text-2xl font-bold text-center mb-4"
-          >
+>
             How can I help You?
-            I am here to help you.
-            
+            <span className="block text-sm font-normal mt-1">I am here to help you.</span>
+          </Label>
           </Label>
 
           {/* Wrapper for textarea + button */}
